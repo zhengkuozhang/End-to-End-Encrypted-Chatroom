@@ -1,0 +1,18 @@
+# Python 缓存和环境
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# 数据库文件 (不要把本地聊天记录传上去)
+*.db
+*.sqlite3
+chat_history.db
+
+# 数据文件 (视情况决定是否上传)
+*.csv
+books_data.csv
+
+# macOS 系统文件
+.DS_Store
